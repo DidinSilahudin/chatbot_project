@@ -1,0 +1,2 @@
+# Ignore file .env agar tidak ter-upload ke GitHub
+.env
